@@ -69,9 +69,15 @@
   text-align: center;
   color: #ffffff;
   font-size: large;
+<<<<<<< HEAD
 }
 .header .background_img {
   size: 400px;
+=======
+  background-image: url(https://photos.google.com/photo/AF1QipMxv-S463VvckvOu8_jFsS3yPlD4iF6ER_TUM-c);
+  height: 400px;
+  background-position: center;
+>>>>>>> a1d4cded2254338ff460c33d007f4e8b2f82532c
   opacity: 0.5;
   position: center;
 }
