@@ -65,4 +65,11 @@
 .header {
   font-family: "Noto Sans", sans-serif;
   font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+  font-size: large;
+  background-image: url(Vendetta-V.github.io\images\IMG-20200228-WA0004.jpg);
+  height: 400px;
+  background-position: center center;
+  opacity: 0.5;
 }
