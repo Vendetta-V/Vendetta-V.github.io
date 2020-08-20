@@ -14,6 +14,7 @@
   text-decoration: none;
   font-size: 17px;
   font-style: "Noto Sans", sans-serif;
+  font-weight: bold;
 }
 
 /* Change color of the links on hover */
@@ -68,7 +69,7 @@
   text-align: center;
   color: #ffffff;
   font-size: large;
-  background-image: url(Vendetta-V.github.io\images\IMG-20200228-WA0004.jpg);
+  background-image: url(\images\IMG-20200228-WA0004.jpg);
   height: 400px;
   background-position: center center;
   opacity: 0.5;
