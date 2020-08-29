@@ -73,3 +73,16 @@
   opacity: 0.5;
   background-size: 1000px;
 }
+
+h2 {
+  color: #ff66cc;
+  font-weight: bold;
+  font-family: "Trebuchet MS";
+}
+
+/* Event Table design */
+.eventTable {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 100%;
+}
