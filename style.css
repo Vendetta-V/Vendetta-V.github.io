@@ -13,7 +13,8 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  font-style: "Trebuchet MS";
+  font-style: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 /* Change color of the links on hover */
@@ -63,7 +64,8 @@
 
 /* Header design */
 .header {
-  font-family: "Trebuchet MS";
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
   font-weight: 300;
   text-align: center;
   color: #ff66cc;
@@ -77,7 +79,8 @@
 h2 {
   color: #ff66cc;
   font-weight: bold;
-  font-family: "Trebuchet MS";
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 /* Event Table design */
@@ -85,4 +88,6 @@ h2 {
   border: 1px solid black;
   border-collapse: collapse;
   width: 100%;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
