@@ -2,22 +2,21 @@
   box-sizing: border-box;
 }
 /* Background color of the top Nav */
-.topnav {
-  background-color: #f9ecf2;
+.navbar {
+  background-color: #b8b1c1;
   overflow: hidden;
 }
 
 /* Style of the links inside the nav bar */
-.topnav a {
+.navbar a {
   float: left;
   display: block;
-  color: #000000;
+  color: #eeebe5;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 20px;
   text-decoration: none;
   font-size: 17px;
-  font-style: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-style: "Lato", sans-serif;
 }
 
 /* Change color of the links on hover */
@@ -28,8 +27,8 @@
 
 /* Active class to highlit current page */
 .topnav a.active {
-  background-color: #ff66cc;
-  color: #ffffff;
+  background-color: #f6b7b9;
+  color: #eeebe5;
 }
 
 /* Hide the link that open and close the topnav on small screens */
@@ -67,30 +66,16 @@
 
 /* Header design */
 .header {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: "Lato", sans-serif;
   font-weight: 300;
+  padding: 80 px;
   text-align: center;
-  color: #ff66cc;
+  background: #f7c5bf;
+  color: #eeebe5;
   font-size: large;
-  background-image: url(https://i.pinimg.com/originals/73/22/47/732247e49da090e273dfd19c5d1dfcfc.png);
-  background-position: center;
-  opacity: 0.5;
-  background-size: 4000px;
 }
 
-h2 {
-  color: #ff66cc;
-  font-weight: bold;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-}
-
-/* Event Table design */
-.eventTable {
-  border: 1px solid black;
-  border-collapse: collapse;
-  width: 75%;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+/* Header h1 element */
+.header h1 {
+  font-size: 40 px;
 }
